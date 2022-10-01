@@ -10,3 +10,6 @@ inspire:
 - https://youtu.be/OFI1FJcGLeM
 
 Make a kernel Interface https://linuxhint.com/dev_random_vs_dev_urandom/
+
+# Favorite:
+- [How This Guy Builds Mesmerizing Kinetic Sculptures | Obsessed | WIRED](https://youtu.be/ROP45rjvOHg)
