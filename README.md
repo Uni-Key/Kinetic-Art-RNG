@@ -1,2 +1,12 @@
 # Kinetic-Art-RNG
-Use a camera on a Lava Lamp, or a Wave Machine, or other Kinetic Art - to generate True Random numbers! inspire: https://linuxhint.com/dev_random_vs_dev_urandom/ https://youtu.be/wdrgnOqPOj4 vs. v
+Use a camera on a Lava Lamp, Fountain, a Wave Machine, or other Kinetic Art - to generate True Random numbers! 
+
+inspire:
+- https://www.youtube.com/results?search_query=Kinetic+Art
+- https://www.google.com/search?q=tilting+wave+machine
+- https://youtu.be/PyEI01y-e9E
+- https://youtu.be/wdrgnOqPOj4
+- https://youtu.be/D2HF-1xjpP8
+- https://youtu.be/OFI1FJcGLeM
+
+Make a kernel Interface https://linuxhint.com/dev_random_vs_dev_urandom/
