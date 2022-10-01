@@ -13,3 +13,7 @@ Make a kernel Interface https://linuxhint.com/dev_random_vs_dev_urandom/
 
 # Favorite:
 - [How This Guy Builds Mesmerizing Kinetic Sculptures | Obsessed | WIRED](https://youtu.be/ROP45rjvOHg)
+
+# Theory
+- https://en.wikipedia.org/wiki/Chaos_theory
+- https://en.wikipedia.org/wiki/Double_pendulum
